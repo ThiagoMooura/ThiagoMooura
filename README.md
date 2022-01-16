@@ -13,7 +13,10 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
-  <img align="center" alt="GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img align="center" alt="Github" height="30" width="auto" src="https://user-images.githubusercontent.com/75102304/149674877-1e7bbe8f-3e1a-4182-a151-cfb3407c5bf3.png">
+
+    
 </div>
   
   ##
